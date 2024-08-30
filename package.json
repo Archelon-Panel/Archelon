@@ -1,0 +1,9 @@
+{
+    "name": "archelon",
+    "version": "",
+    "private": true,
+    "workspaces": [
+        "projects/*",
+        "libraries/*"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "@archelon-panel/shell",
+    "description": "Archelon Panel Shell",
+    "version": "0.0.1",
+
+    "license": "MIT",
+    "homepage": "https://github.com/Archelon-Panel",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Archelon-Panel/Archelon.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Archelon-Panel/Archelon/issues"
+    },
+
+    "author": {
+        "name": "CoreByte",
+        "url": "https://corebyte.me"
+    },
+
+    "files": [
+        "/src/**"
+    ],
+
+    "main": "/src/index.ts",
+    "bin": "/bin/index.ts",
+
+    "scripts": {
+
+    }
+}
