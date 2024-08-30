@@ -5,5 +5,9 @@
     "workspaces": [
         "projects/*",
         "libraries/*"
-    ]
+    ],
+
+    "devDependencies": {
+        "@types/bun": "latest"
+    }
 }
