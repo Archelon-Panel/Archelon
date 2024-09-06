@@ -2,7 +2,6 @@
     "name": "@archelon-panel/shell",
     "description": "Archelon Panel Shell",
     "version": "0.0.1",
-
     "license": "MIT",
     "homepage": "https://github.com/Archelon-Panel",
     "repository": {
@@ -12,20 +11,19 @@
     "bugs": {
         "url": "https://github.com/Archelon-Panel/Archelon/issues"
     },
-
     "author": {
         "name": "CoreByte",
         "url": "https://corebyte.me"
     },
-
     "files": [
         "/src/**"
     ],
-
     "main": "/src/index.ts",
     "bin": "/bin/index.ts",
-
-    "scripts": {
-
+    "scripts": {},
+    "dependencies": {
+        "@elysiajs/html": "^1.1.1",
+        "elysia": "^1.1.12",
+        "normalize.css": "^8.0.1"
     }
 }
