@@ -1,0 +1,27 @@
+{
+    "name": "@archelon-panel/components",
+    "description": "Archelon Panel HTMX Components",
+    "version": "0.0.1",
+    "license": "MIT",
+    "homepage": "https://github.com/Archelon-Panel",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Archelon-Panel/Archelon.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Archelon-Panel/Archelon/issues"
+    },
+    "author": {
+        "name": "CoreByte",
+        "url": "https://corebyte.me"
+    },
+    "files": [
+        "/src/**"
+    ],
+    "main": "/src/index.ts",
+    "bin": "/bin/index.ts",
+    "scripts": {},
+    "dependencies": {
+        "@elysiajs/html": "^1.1.1"
+    }
+}
