@@ -1,13 +1,12 @@
 {
-    "name": "archelon",
-    "version": "",
-    "private": true,
-    "workspaces": [
-        "projects/*",
-        "libraries/*"
-    ],
-
-    "devDependencies": {
-        "@types/bun": "latest"
-    }
+  "name": "archelon",
+  "version": "",
+  "private": true,
+  "workspaces": [
+    "projects/*",
+    "libraries/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
 }
