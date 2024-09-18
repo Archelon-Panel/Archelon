@@ -18,8 +18,8 @@
 
     "types": [
         "bun-types",
-        "@kitajs/html/htmx",
-        "@kitajs/html"
+        "@kitajs/html/htmx.d.ts",
+        "@kitajs/html/index.d.ts"
     ],
 
     // Best practices
